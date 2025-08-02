@@ -1,11 +1,11 @@
 
 
 {
-  "name": "ULTRAXAS XMD",
-  "description": "Best WhatsApp bot developed by ultra",
+  "name": "KYEKYEKU-TECH",
+  "description": "Best WhatsApp bot developed by kyekyeku-tech",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg",
-  "repository": "https://github.com/bwmxmd254/BWM-XMD",
+  "logo": "https://kyekyeku.tech/assets/images/my-avatar.png",
+  "repository": "https://github.com/kyekyeku-tech/KYETECH",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -51,12 +51,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "ULTRAXAS XMD",
+      "value": "KYEKYEKU-TECH",
       "required": false
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg",
+      "value": "https://kyekyeku.tech/assets/images/my-avatar.png",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -76,7 +76,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "447846566411",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "ultra",
+      "value": "Kyekyeku-Tech",
       "required": false
     },
     "SESSION_ID": {
@@ -111,12 +111,12 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "recording",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
       "description": "Enable anti-delete to be sent inbox (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTIDELETE_RECOVER_CONVENTION": {
